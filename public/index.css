@@ -1,12 +1,13 @@
 @font-face {
-  font-family: 'SF Distant Galaxy';
-  src: local('SF Distant Galaxy'), url(fonts/SF\ Distant\ Galaxy.ttf), format('ttf');
+  font-family: "SF Distant Galaxy";
+  src: local("SF Distant Galaxy"), url(fonts/SF\ Distant\ Galaxy.ttf),
+    format("ttf");
 }
 
 body {
   background-color: black;
   margin: 0;
-  font-family: 'SF Distant Galaxy';
+  font-family: "SF Distant Galaxy";
 }
 
 #heading {
